@@ -37,8 +37,7 @@
    * 第二層
      * 第三層
 -------
-Age           | Time  | Food | Gold | Requirement
---------------|:-----:|-----:| ----:|------------------------
-Feudal Age    | 02:10 |  500 |    0 | Dark Age building x 2
-Castle Age    | 02:40 |  800 |  200 | Feudal Age building x 2
-Imperial Age  | 03:30 | 1000 |  800 | Castle Age building x 2    
+|第一欄|第二欄|第三欄|
+|---|---|---|
+|1234565|353252|125658459|
+|999874568|96321148|952|
