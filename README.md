@@ -28,28 +28,7 @@
 2. 炸雞
 3. 可樂
 
-<table border="1">
-	<tbody>
-		<tr>
-			<td>BCD&nbsp;</td>
-			<td>adc&nbsp;</td>
-			<td>fewfw&nbsp;</td>
-			<td>fwefwe&nbsp;</td>
-		</tr>
-		<tr>
-			<td>fffff&nbsp;</td>
-			<td>ffffff&nbsp;</td>
-			<td>ffffff&nbsp;</td>
-			<td>fewfwe&nbsp;</td>
-		</tr>
-		<tr>
-			<td>212332&nbsp;</td>
-			<td>3121&nbsp;</td>
-			<td>32123&nbsp;</td>
-			<td>123123&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
+
 -------
 1. 第一項
    * 第二層
