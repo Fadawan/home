@@ -10,7 +10,7 @@
 
 點選此連結到[範例檔案](docs/範例檔案.docx)
 
-![倉庫內圖片](/image/cat.jpg)
+![倉庫內圖片](image/cat.jpg)
 
 
 ![一隻狗狗](https://i2.wp.com/www.spaceadvisor.com/blog/wp-content/uploads/2018/08/animal-corgi-dog-58997.jpg)
