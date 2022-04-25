@@ -46,4 +46,3 @@
 |999874568|96321148|952|
 
 
-https://i2.wp.com/www.spaceadvisor.com/blog/wp-content/uploads/2018/08/animal-corgi-dog-58997.jpg
