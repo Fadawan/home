@@ -1,25 +1,13 @@
-# 個人簡介
-![man](../image/man.jpg)
-## 姓名: 陳品質
-### 性別: 男
-### 年齡: 40
-### E-mail: abc123@gmail.com
+![logo](image/myLogo.png)
+#  認證資訊 Certification
+## 姓名: 陳品質  
+### [個人簡介](aboutme/README.md)
+### 認證擁有本會之證照 :
 ---
-### 最高學歷: 國立成功大學品管所畢業
-### 經歷:
-   * 統一企業食品品管工程師 1990/08 ~ 1999/03
-   * 統一企業食品品管工程師 1990/08 ~ 1999/03
-   * 桂格食品品管經理      2010/12 ~
+* 黑帶大師 Master Black Belt
+* 品質工程師Quality Engineer
+* 六標準差黑帶Six Sigma Black Belt
 ---
-### 證照
-   * 黑帶大師 Master Black Belt
-   * 品質工程師 Quality Engineer
-   * 六標準差黑帶 Six Sigma Black Belt
----
-### 興趣嗜好:
-   * 騎自行車旅行
-   * 打網球
-   * 聽音樂
-
----
-### 其他
+![證照](image/證照1.jpg)
+![證照](image/證照2.jpg)
+![證照](image/證照3.jpg)
